@@ -1,0 +1,6 @@
+I adjusted the checkout limit to allow shoppers to purchase between 1 and 100 items. 
+This ensures flexibility, some customers may only need a single item while others might have a full cart.
+I also set the number of checkout clerks to six, I found this optimized the balance between idle time
+and efficiency based on the volume of items being processed. 
+I incorporated the calculation of the average number of items per shopping trip 
+by applying the same principle used for estimating wait times, utilizing the 'e' in the event line.
